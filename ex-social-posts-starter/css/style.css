@@ -124,8 +124,6 @@ h1 {
     cursor: default;
 }
 
-.img_profail-sostitut{
-    background-color: rgb(172, 121, 255);
-    font-size: 35px;
-    display: inline-block;
+.active{
+    background-color: rgb(31, 31, 236);
 }
